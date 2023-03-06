@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#screen {
+    width: 1280px;
+    height: 720px;
+    border: 1px solid black;
+}
